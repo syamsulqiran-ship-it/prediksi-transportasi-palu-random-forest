@@ -1,0 +1,19 @@
+prediksi-transportasi-palu-random-forest
+│
+├── data
+│   └── transportasi_palu.csv
+│
+├── src
+│   ├── preprocessing.py
+│   ├── train_model.py
+│   └── prediction.py
+│
+├── notebook
+│   └── analisis.ipynb
+│
+├── results
+│   └── grafik_prediksi.png
+│
+├── README.md
+├── requirements.txt
+└── LICENSE
