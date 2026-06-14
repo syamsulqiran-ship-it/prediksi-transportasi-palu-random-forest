@@ -1,0 +1,43 @@
+# prediksi-transportasi-palu-random-forest
+Prediksi Kepadatan Transportasi Kota Palu Menggunakan Random Forest
+# Prediksi Kepadatan Transportasi Kota Palu Menggunakan Random Forest
+
+# Deskripsi
+
+Proyek ini bertujuan memprediksi tingkat kepadatan transportasi di Kota Palu menggunakan algoritma Random Forest Regression berdasarkan data statistik transportasi yang diterbitkan oleh Badan Pusat Statistik (BPS).
+
+# Dataset
+
+Sumber:
+BPS Kota Palu - Perkembangan Tingkat Penggunaan Sarana Transportasi Februari 2026.
+
+# Fitur Data
+
+- Frekuensi penerbangan
+- Jumlah penumpang udara
+- Volume barang udara
+- Frekuensi pelayaran
+- Jumlah penumpang laut
+- Aktivitas bongkar muat
+
+# Metode
+
+- Data Preprocessing
+- Random Forest Regression
+- Evaluasi Model (MAE, RMSE, R²)
+
+# Tools
+
+- Python
+- Pandas
+- NumPy
+- Scikit-Learn
+- Matplotlib
+
+# Hasil
+
+Model digunakan untuk memprediksi kepadatan transportasi Kota Palu pada periode berikutnya.
+
+# Author
+
+SAMSUL QIRAN
