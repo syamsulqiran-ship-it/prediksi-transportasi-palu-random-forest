@@ -1,0 +1,12 @@
+import pandas as pd
+from sklearn.ensemble import RandomForestRegressor
+
+data = pd.read_csv("data/transportasi_palu.csv")
+
+X = data[["frekuensi_penerbangan"]]
+y = data["jumlah_penumpang"]
+
+model = RandomForestRegressor()
+model.fit(X, y)
+
+print("Model berhasil dilatih")
